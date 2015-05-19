@@ -6,6 +6,7 @@ public class Rechner {
 			
 		titel("Bruchrechner");
 			
+		Bruch b1 = new Bruch();
 		
 		verabschiedung();
 	}
